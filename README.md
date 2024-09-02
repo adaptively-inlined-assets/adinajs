@@ -1,2 +1,2 @@
-# adinajs
-The most versatile CSR meta-framework
+# Adina.js
+**Ad**aptively **In**lined **A**ssets
